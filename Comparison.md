@@ -46,9 +46,7 @@ Compare Python and Java
   
     Java: All code belongs to a package, although that package need not be explicitly named. Code from other packages is accessed by prefixing the package name before the appropriate identifier.
     
-    Python: 1)	Local Namespace is created when a function is called, and it only lasts until the function returns.
-2)	Global Namespace is created when the module is included in the project, and it lasts until the script ends.
-3)	Built-in Namespace includes built-in functions and built-in exception names.
+    Python: Local Namespace is created when a function is called, and it only lasts until the function returns; Global Namespace is created when the module is included in the project, and it lasts until the script ends; Built-in Namespace includes built-in functions and built-in exception names.
 
 * Types
   * What types does the language support?
