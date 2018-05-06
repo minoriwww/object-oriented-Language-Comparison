@@ -1,2 +1,13 @@
-# object-oriented-Language-Comparison
-Java 7330 final project
+Team members: 
+Jiakang Yuchi,
+Shihui Xiong,
+Dongpeng Liu,
+Cong Chen, 
+
+Comparison:
+Python,
+Java
+
+[Go to Comparison.md](Comparison.md)
+   
+[Go to code.txt](code.txt)
